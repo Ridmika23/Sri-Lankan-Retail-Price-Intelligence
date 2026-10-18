@@ -15,4 +15,6 @@ secrets.toml
 data/raw/*.csv
 data/raw/raw/
 *.csv
+!data/processed/retail_prices_cleaned.csv
 *.pdf
+
