@@ -2,8 +2,6 @@
 
 A professional data analytics pipeline and interactive Streamlit dashboard tracking the retail prices of essential consumer items in Colombo, Sri Lanka (2020-2024).
 
-![Dashboard Screenshot Placeholder](reports/placeholder_screenshot.png) <!-- REPLACE WITH ACTUAL SCREENSHOT -->
-
 ## Business Problem
 Sri Lanka has faced significant economic volatility in recent years, leading to rapid fluctuations in the cost of living. Monitoring the retail prices of essential consumer items is crucial for policy-makers, businesses, and consumers to understand inflation trends, market stability, and purchasing power.
 
